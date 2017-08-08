@@ -181,6 +181,7 @@ if (oBitmap != null)
 
         return photoFileUri;
     }
+//changes from gedit
 
 //changes
 
