@@ -182,7 +182,7 @@ if (oBitmap != null)
         return photoFileUri;
     }
 
-//changes
+//changes to check
 
 
 }
