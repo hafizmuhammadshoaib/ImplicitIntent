@@ -184,6 +184,7 @@ if (oBitmap != null)
 //changes from gedit
 
 //changes to check
+    //changes in to shoaib branch
 
 
 }
